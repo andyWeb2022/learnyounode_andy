@@ -1,0 +1,24 @@
+{
+  "name": "learnyounode_andy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "learnyounode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyWeb2022/learnyounode_andy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyWeb2022/learnyounode_andy/issues"
+  },
+  "homepage": "https://github.com/andyWeb2022/learnyounode_andy#readme",
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
