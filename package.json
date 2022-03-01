@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/andyWeb2022/learnyounode_andy#readme",
   "dependencies": {
+    "bl": "^5.0.0",
     "learnyounode": "^4.2.2",
     "nodemon": "^2.0.15"
   }
